@@ -43,5 +43,5 @@ This modern bootcamp introduces **ROS 2 Humble Hawksbill** - the newest LTS vers
 
 ```text
 📖 Core Resources:
-- ROS 2 Humble Documentation: https://docs.ros.org/en/humble/
-- The ROS 2 Developer's Guide: https://www.packtpub.com/ros2-book 
+- ROS 2 Humble Documentation: [https://docs.ros.org/en/humble/](https://docs.ros.org/en/humble/Installation.html)
+- The ROS 2 Developer's Guide: [https://www.packtpub.com/ros2-book ](https://docs.ros.org/en/humble/Tutorials.html)
