@@ -37,10 +37,9 @@ This modern bootcamp introduces **ROS 2 Humble Hawksbill** - the newest LTS vers
 - Linux terminal familiarity (`bash`, `ssh`) 
 - Excitement for deployable robotics! 🚀
 
-### Learning Milestones
-1. **Week 1-2**: ROS 2 basics + TurtleBot4 simulation ([ROS 2 Tutorials](https://docs.ros.org/en/humble/Tutorials.html))
-2. **Week 3-4**: Lifecycle nodes + Composition vs. Components
-3. **Week 5-6**: Real-world deployment with Nav2 + cloud logging
+### Workloads
+1. **Week 1**: Install an Ubuntu 2204 virtual machine and follow the instructions on ros.org to install ros humble. Try the play with ros2 tutorial, DDL: March 11th, office hour/meeting, Match 12th 4pm
+
 
 ```text
 📖 Core Resources:
