@@ -51,6 +51,17 @@ This modern bootcamp introduces **ROS 2 Humble Hawksbill** - the newest LTS vers
 - **CPU:** Intel N100  
 - **Note:** This mini PC does not include built-in WiFi 📡.
 
+### Connecting to Your Computer 💻
+- **Hardware Setup:**  
+  - Connect an HDMI cable from the mini PC to an HDMI capture card.  
+  - Plug the HDMI capture card into your laptop or desktop.
+- **Viewing the Device Screen:**  
+  - Open your computer's camera application and switch the camera source to view the device's screen.
+- **Peripheral Setup:**  
+  - The mini PC requires a separate keyboard and mouse to be used.
+- **Remote Access Recommendation:**  
+  - After the initial configuration, it is recommended to install remote access software like **ToDesk** or **NoMachine** for easier remote connection.
+
 ### Installation Requirements
 1. **Operating System:**  
    - Install **Ubuntu 22.04 Desktop**.  
