@@ -1,4 +1,4 @@
-# 🤖 FURP: ROS 2 Bootcamp (Humble Hawksbill)
+# 🤖 FURP: ROS 2 Bootcamp (Humble)
 
 **Faculty of Science and Engineering Undergraduate Research Project**  
 *Master Next-Gen Robotics Development with ROS 2*
@@ -37,8 +37,40 @@ This modern bootcamp introduces **ROS 2 Humble Hawksbill** - the newest LTS vers
 - Linux terminal familiarity (`bash`, `ssh`) 
 - Excitement for deployable robotics! 🚀
 
+
+
+
 ### Workloads
 1. **Week 1**: Install an Ubuntu 2204 virtual machine and follow the instructions on ros.org to install ros humble. Try the play with ros2 tutorial, DDL: March 11th, office hour/meeting, Match 12th 4pm
+
+2. **Week 2**: Setup the machine.
+ 
+## ROS Bootcamp Mini PC Setup Guide 🚀
+
+### Overview
+- **Mini PC for ROS Bootcamp**  
+- **CPU:** Intel N100  
+- **Note:** This mini PC does not include built-in WiFi 📡.
+
+### Installation Requirements
+1. **Operating System:**  
+   - Install **Ubuntu 22.04 Desktop**.  
+   - [Download Ubuntu 22.04](#) *(https://releases.ubuntu.com/jammy/)*
+
+2. **ROS 2 Humble:**  
+   - Install **ROS 2 Humble**.  
+   - [Download ROS 2 Humble](#) *(https://docs.ros.org/en/humble/Installation.html)*
+
+### Network Configuration 📱
+- Since the mini PC lacks WiFi, you will need to share your phone's internet connection via USB tethering.
+- **Recommendation:**  
+  - Connect your phone to **eduroam**.
+  - Then, use USB tethering to provide internet access to the mini PC.
+
+### Next Steps
+- Once the installation is complete, please come find me to collect your LiDAR sensor 🔧.
+
+Happy bootcamping and enjoy your new setup! 🎉
 
 
 ```text
