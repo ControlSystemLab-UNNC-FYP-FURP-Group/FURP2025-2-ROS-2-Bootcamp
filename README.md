@@ -40,12 +40,11 @@ This modern bootcamp introduces **ROS 2 Humble Hawksbill** - the newest LTS vers
 
 
 
-### Workloads
-1. **Week 1**: Install an Ubuntu 2204 virtual machine and follow the instructions on ros.org to install ros humble. Try the play with ros2 tutorial, DDL: March 11th, office hour/meeting, Match 12th 4pm
+# Workloads
+## 1. **Week 1**: Install an Ubuntu 2204 virtual machine and follow the instructions on ros.org to install ros humble. Try the play with ros2 tutorial, DDL: March 11th, office hour/meeting, Match 12th 4pm
 
-2. **Week 2**: Setup the machine.
- 
-## ROS Bootcamp Mini PC Setup Guide 🚀
+## 2. **Week 2**: Setup the machine, Mini PC Setup Guide 🚀
+
 
 ### Overview
 - **Mini PC for ROS Bootcamp**  
